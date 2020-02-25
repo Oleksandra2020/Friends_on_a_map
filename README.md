@@ -14,3 +14,7 @@ pip install flask
 ## Usage
 
 When the program runs, you will be directed to the html page and have to type valid account name in Twitter. After pressing Enter you will see a map of user's friends.
+
+## Pythonanywhere app
+
+Sasha202020.pythonanywhere.com
